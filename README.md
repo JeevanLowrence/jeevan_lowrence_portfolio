@@ -1,2 +1,2 @@
 # Jeevan Lowrence
-Portfolio Page that I wanted to make with some animations
+Portfolio Page that I have created with some animations.
